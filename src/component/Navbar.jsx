@@ -64,7 +64,7 @@ export default function Navbar() {
         {/* Mobile: Left Side */}
         <div className="navbar-start">
           {/* Logo */}
-          <Link to="/" className="btn btn-ghost text-white text-xl">
+          <Link to="/" className="btn btn-ghost text-white text-xl hover:bg-transparent hover:outline-none">
             All In One Solution
           </Link>
         </div>
